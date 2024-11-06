@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @TanayPhatak<br>- 🎒 I have worked on projects involving the use of Python, FastAPI, Django, Java, Spring Boot, JavaScript, NodeJS, HTML and SQL<br>- ⚡ I'm interested in the fields of AI/ML, Deep Learning<br>- 🏅 I like doing 🏸, 🏊‍♂️, 🏍<br>- 📫 How to reach me - email: tanayp2001@gmail.com
+- 👋 Hi, I’m Tanay Phatak<br>- 🎒 I have worked on projects involving the use of Python, FastAPI, Django, Java, Spring Boot, JavaScript, NodeJS, HTML and SQL<br>- ⚡ I'm interested in the fields of AI/ML, Deep Learning<br>- 🏅 I like doing 🏸, 🏊‍♂️, 🏍<br>- 📫 How to reach me - email: tanayp2001@gmail.com
 
 
 ## 🌐 Socials:
